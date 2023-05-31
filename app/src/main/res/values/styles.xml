@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.GroceryApplication" parent="Theme.AppCompat">
+        <!-- Customize your theme attributes here -->
+    </style>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+        <!-- Customize your theme attributes here -->
+    </style>
+
+</resources>
